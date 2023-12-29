@@ -6,7 +6,8 @@ Welcome to the Brem Coding Challenge - Login and Sign-Up Form edition! This chal
 
 ## Challenge Description
 
-The goal of this coding challenge is to create a web-based login and sign-up form. You will need to implement the following:
+The goal of this coding challenge is to create a web-based login and sign in and log to thr console.
+
 
 1. **Login Form:**
    - Fields: Username and Password
