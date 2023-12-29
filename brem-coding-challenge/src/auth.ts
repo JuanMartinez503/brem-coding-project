@@ -1,7 +1,8 @@
 import { Lucia } from "lucia";
 import { PrismaAdapter } from "@lucia-auth/adapter-prisma";
 import { PrismaClient } from "@prisma/client";
-
+//this file adds authentication to a user
+//sadly I was not able to get it to work
 const client = new PrismaClient();
 
 const adapter = new PrismaAdapter(client.session, client.user);

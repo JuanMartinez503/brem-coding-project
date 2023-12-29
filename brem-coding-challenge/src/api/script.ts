@@ -21,3 +21,4 @@ main()
     await prisma.$disconnect()
     process.exit(1)
   })
+  //I was able to use add a user to the database in the backend

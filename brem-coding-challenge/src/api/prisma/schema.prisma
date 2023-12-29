@@ -25,3 +25,4 @@ model Session {
   expiresAt DateTime
   user      User     @relation(references: [id], fields: [userId], onDelete: Cascade)
 }
+// I was able to make the models that were neeed

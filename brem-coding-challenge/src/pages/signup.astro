@@ -11,6 +11,7 @@ if (Astro.request.method === "POST") {
     console.log('username: '+name);
     console.log('password: '+password);
     } else {
+      //this will occur if the form does not have a user or a password
         console.log('username or password are missing')
     }
   } catch (error) {
