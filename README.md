@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Brem Coding Challenge - Login and Sign-Up Form edition! This challenge focuses on building a simple login and sign-up form. Your objective is to implement the form functionalities and log the entered data to the console. Please read through this README for detailed instructions.
+Welcome to the Brem Coding Challenge - Login and Sign-Up Form edition! This challenge focuses on building a simple login and sign-up form. My objective is to implement the form functionalities and log the entered data to the console. 
 
 ## Challenge Description
 
