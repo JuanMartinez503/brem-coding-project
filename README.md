@@ -27,10 +27,6 @@ Make sure to handle edge cases gracefully and provide clear feedback to users.
 
 ## Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have a code editor and a web browser installed.
-
 ### Installation
 
 1. Clone this repository:
@@ -42,7 +38,7 @@ Before you begin, ensure you have a code editor and a web browser installed.
    ```bash
    cd brem-coding-challenge
    ```
-3. Install and run project
+3. Install and run project(there is a small bug that makes you have to double load the homepage at the beggining in order to proceed)
    ```bash
    npm i;npm run dev
    ```
