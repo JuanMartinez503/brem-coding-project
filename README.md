@@ -39,7 +39,7 @@ Make sure to handle edge cases gracefully and provide clear feedback to users.
    ```bash
    cd brem-coding-challenge
    ```
-3. Install and run project(there is a small bug that makes you have to double load the homepage at the beggining in order to proceed)
+3. Install and run project(there is a small bug that makes you have to double load the homepage at the beggining in order to proceed, I think the bug comes from trying to sync up the api to the front end)
    ```bash
    npm i;npm run dev
    ```
